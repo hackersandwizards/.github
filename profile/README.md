@@ -11,7 +11,7 @@ Teams we have trained include dm, IONOS, Krombacher and LichtBlick, and by Septe
 - [artificer](https://github.com/hackersandwizards/artificer): a kit for building small software factories on Claude Code from gated agent steps you can read end to end.
 - [hycle](https://github.com/hackersandwizards/hycle): our hypothesis on how work shifts when agents make building cheap (German).
 - [bench](https://github.com/hackersandwizards/bench): the terminal setup we work in, for macOS on Apple Silicon.
-- [agentic-engineering-training-nextjs](https://github.com/hackersandwizards/agentic-engineering-training-nextjs): a small CRM that training participants practise on.
+- [agentic-engineering-for-developers](https://github.com/hackersandwizards/agentic-engineering-for-developers) and [agentic-software-factory](https://github.com/hackersandwizards/agentic-software-factory): what participants work in during our two trainings, a small CRM and a factory built on a calculator.
 - [brand](https://github.com/hackersandwizards/brand), [documents](https://github.com/hackersandwizards/documents) and [slides](https://github.com/hackersandwizards/slides): our brand package, document engine and slide engine.
 
 <p>
